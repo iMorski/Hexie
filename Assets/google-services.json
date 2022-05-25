@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733900633180",
+    "firebase_url": "https://hexie-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hexie-app",
+    "storage_bucket": "hexie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733900633180:android:dcf38719382383868b2299",
+        "android_client_info": {
+          "package_name": "com.hexie.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733900633180-8joqjimpjsheofrnphlha554udopvrtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtchnRICPTbx6PKtVtmm0CiEnc8Yyd1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733900633180-8joqjimpjsheofrnphlha554udopvrtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
